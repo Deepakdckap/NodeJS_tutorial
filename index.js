@@ -38,6 +38,7 @@ console.log(tesla);
 console.log(ford); */
 
 // use JSON.stringfy() to beautify the console.log()
-const {tesla, ford} = require("./car")
+/* const {tesla, ford} = require("./car")
 console.log(JSON.stringify(tesla, null, 3));   // we need to pass 3 params, second value either can be null or undefined
-console.log(JSON.stringify(ford, undefined, 2));
+console.log(JSON.stringify(ford, undefined, 2)); */
+// -------------------------------------
